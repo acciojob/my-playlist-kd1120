@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.h1{
+	text-align:center;
+}
+.h2{
+	text-align:center;
+}
+.h3{
+text-align:center;
+}
+ .li{
+	 text-decoration-line:none;
+ }
+body{
+	background-color:rgb(204,204,204);
+}
